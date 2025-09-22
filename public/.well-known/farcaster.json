@@ -7,12 +7,13 @@
   "miniapp": {
     "version": "1",
     "name": "Akaya",
-    "iconUrl": "https://akaya.verce.app/icons/akaya.png",
-    "homeUrl": "https://akaya.verce.app/",
-    "splashImageUrl": "https://akaya.verce.app/icons/akaya.png",
+    "iconUrl": "https://akaya.vercel.app/icons/akaya.png",
+    "homeUrl": "https://akaya.vercel.app/",
+    "splashImageUrl": "https://akaya.vercel.app/icons/akaya.png",
     "splashBackgroundColor": "#ffffff",
     "description": "Akaya — a Farcaster mini app for all",
     "primaryCategory": "social",
     "tags": ["farcaster","tools"]
   }
 }
+
