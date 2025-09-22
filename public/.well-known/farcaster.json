@@ -1,1 +1,18 @@
-{}
+{
+  "accountAssociation": {
+    "header": "<base64 header>",
+    "payload": "<base64 payload>",
+    "signature": "<base64 signature>"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Akaya",
+    "iconUrl": "https://akaya.verce.app/icons/akaya.png",
+    "homeUrl": "https://akaya.verce.app/",
+    "splashImageUrl": "https://akaya.verce.app/icons/akaya.png",
+    "splashBackgroundColor": "#ffffff",
+    "description": "Akaya — a Farcaster mini app for all",
+    "primaryCategory": "social",
+    "tags": ["farcaster","tools"]
+  }
+}
